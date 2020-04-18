@@ -1,1 +1,2 @@
 This is second sample file. Hello World in Git !!
+Second line added from Git CLI to check merge conflict !!
